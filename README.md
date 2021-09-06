@@ -1,5 +1,5 @@
 # CVS_rater
-Paradigm for fast and efficient Central Veins Sign (CVS) rating on MRI scans using custom python code integrated with the popular MRI viewer [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php).
+Paradigm for fast and efficient Central Veins Sign (CVS) rating on MRI scans using custom python code integrated with the popular MRI viewer [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php). Rating results are automatically saved in a .xlsx file containing a unique ID for lesion, lesion coordinates, and rating information for lesion type and location.
 
 This work was conducted at the Neuroimmunology Clinic (NIC) and Translation Neuroradiology Section (TNS) of the National Institute of Neurological Disorders and Stroke (NINDS) at the National Institutes of Health. 
 
