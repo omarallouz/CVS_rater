@@ -5,6 +5,8 @@ This work was conducted at the Neuroimmunology Clinic (NIC) and Translation Neur
 
 This work is supported by the NINDS Intramural research program and a National Multiple Sclerosis Society (NMSS) and American Brain Foundation (ABF) Clinician Scientist Development grant to O.A. (FAN-1807-32163). This work also utilized the computational resources of the [NIH HPC Biowulf cluster](http://hpc.nih.gov), and the software is distributed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
 
+![TNS Logo](/assets/tns.jpg)
+
 If this repository is helpful for your research, please cite the following articles:
 
 *TBD*
