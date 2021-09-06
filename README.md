@@ -13,3 +13,14 @@ If this repository is helpful for your research, please cite the following artic
 
 https://user-images.githubusercontent.com/64926413/132244269-2bf4258c-efd8-4ff0-83cd-a5e490e5e8fa.mov
 
+
+## Prerequisites before running CVS_rater
+A few standard packages are required:
+1. [Python v3.6](https://www.python.org/downloads/release/python-360/)
+2. [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3) 
+
+### Installation of ITK-SNAP command line tools is required
+```
+# If using a mac, please copy/paste this command in a terminal window to check for correct installation:
+itksnap -h
+```
