@@ -20,7 +20,7 @@ A few standard packages are required:
 2. [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3) 
 
 ### Installation of ITK-SNAP command line tools is required
+If using a mac, please copy/paste this command in a terminal window to check for correct installation:
 ```
-# If using a mac, please copy/paste this command in a terminal window to check for correct installation:
 itksnap -h
 ```
